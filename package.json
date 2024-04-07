@@ -15,7 +15,8 @@
     "start": "NODE_ENV=development webpack --watch",
     "eslint": "eslint 'src/js/**'",
     "stylelint": "stylelint '**/*.scss'",
-    "migrate": "sass-migrator division ~**/*.scss"
+    "migrate": "sass-migrator division ~**/*.scss",
+    "theme-pull": "sudo shopify theme pull -s maverick-dev-store.myshopify.com"
   },
   "keywords": [
     "shopify",
