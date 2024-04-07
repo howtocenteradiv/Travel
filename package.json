@@ -16,7 +16,7 @@
     "eslint": "eslint 'src/js/**'",
     "stylelint": "stylelint '**/*.scss'",
     "migrate": "sass-migrator division ~**/*.scss",
-    "theme-pull": "sudo shopify theme pull -s maverick-dev-store.myshopify.com"
+    "theme-pull": "sudo shopify theme pull -s prashant-dev-store-dummy-data.myshopify.com"
   },
   "keywords": [
     "shopify",

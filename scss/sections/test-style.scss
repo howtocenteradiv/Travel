@@ -1,0 +1,12 @@
+.section {
+	&-wrapper--featured {
+		.section {
+			&__text {
+				font-size: 50px;
+			};
+			&__image {
+				width: 800px;
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+.section {
+    max-width: 1000px;
+    &__text {
+        font-size: 50px;
+    };
+    &__image {
+        width: 400px;
+    }
+}
